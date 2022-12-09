@@ -121,7 +121,7 @@
     },
     "ushiChaosTide": {
       "JP": null,
-      "CN": null,
+      "CN": "牛若丸混沌之潮",
       "TW": null,
       "NA": "UshiChaosTide",
       "KR": null
@@ -162,60 +162,60 @@
       "KR": null
     },
     "unknown": {
-      "JP": null,
-      "CN": null,
-      "TW": null,
-      "NA": null,
-      "KR": null
+      "JP": "unknown",
+      "CN": "unknown",
+      "TW": "unknown",
+      "NA": "unknown",
+      "KR": "unknown"
     },
     "agarthaPenth": {
-      "JP": null,
-      "CN": null,
-      "TW": null,
+      "JP": "",
+      "CN": "雅戈泰彭忒西勒亚",
+      "TW": "",
       "NA": "AgarthaPenth",
-      "KR": null
+      "KR": ""
     },
     "cccFinaleEmiyaAlter": {
       "JP": null,
-      "CN": null,
+      "CN": "CCC终幕卫宫Alter",
       "TW": null,
       "NA": "cccFinaleEmiyaAlter",
       "KR": null
     },
     "salemAbby": {
       "JP": null,
-      "CN": null,
+      "CN": "塞勒姆阿比盖尔",
       "TW": null,
       "NA": "SalemAbby",
       "KR": null
     },
     "OTHER": {
-      "JP": null,
-      "CN": null,
-      "TW": null,
-      "NA": null,
-      "KR": null
+      "JP": "OTHER",
+      "CN": "OTHER",
+      "TW": "OTHER",
+      "NA": "OTHER",
+      "KR": "OTHER"
     },
     "ALL": {
-      "JP": null,
-      "CN": null,
-      "TW": null,
-      "NA": null,
-      "KR": null
+      "JP": "ALL",
+      "CN": "ALL",
+      "TW": "ALL",
+      "NA": "ALL",
+      "KR": "ALL"
     },
     "EXTRA": {
-      "JP": null,
-      "CN": null,
-      "TW": null,
-      "NA": null,
-      "KR": null
+      "JP": "EXTRA",
+      "CN": "EXTRA",
+      "TW": "EXTRA",
+      "NA": "EXTRA",
+      "KR": "EXTRA"
     },
     "MIX": {
-      "JP": null,
-      "CN": null,
-      "TW": null,
-      "NA": null,
-      "KR": null
+      "JP": "MIX",
+      "CN": "MIX",
+      "TW": "MIX",
+      "NA": "MIX",
+      "KR": "MIX"
     }
   },
   "attribute": {
